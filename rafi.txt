@@ -1,0 +1,83 @@
+PORTFOLIO/
+├── dist/
+│   ├── assets/
+│   ├── _redirects
+│   └── index.html
+├── node_modules/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── ui/
+│   │       ├── accordion.jsx
+│   │       ├── alert-dialog.jsx
+│   │       ├── alert.jsx
+│   │       ├── avatar.jsx
+│   │       ├── badge.jsx
+│   │       ├── button.jsx
+│   │       ├── card.jsx
+│   │       ├── dialog.jsx
+│   │       ├── dropdown-menu.jsx
+│   │       ├── form.jsx
+│   │       ├── hover-card.jsx
+│   │       ├── input.jsx
+│   │       ├── label.jsx
+│   │       ├── pagination.jsx
+│   │       ├── scroll-area.jsx
+│   │       ├── select.jsx
+│   │       ├── separator.jsx
+│   │       ├── sheet.jsx
+│   │       ├── skeleton.jsx
+│   │       ├── switch.jsx
+│   │       ├── table.jsx
+│   │       ├── tabs.jsx
+│   │       ├── tabs.jsx
+│   │       ├── textarea.jsx
+│   │       └── tooltip.jsx
+│   ├── hooks/
+│   │   └── use-toast.js
+│   ├── lib/
+│   │   ├── utils.js
+│   │   
+│   ├── rafi/
+│   │  ├── Main.jsx
+│   │  ├── NavBar.jsx
+│   │  ├── SideBar.jsx
+│   │  ├── ToggleButton.jsx
+│   │  └── UseToggleNav.js
+│   ├── rafipages/           (or rafi pages)
+│   │   ├── About.jsx
+│   │   ├── Blog.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Education.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Home.jsx
+│   │   ├── Modal.jsx
+│   │   ├── ProjectDetails.jsx
+│   │   ├── Projects.jsx
+│   │   ├── SkillName.jsx
+│   │   └── Skills.jsx
+│   ├── styles/
+|   |   └──index.css
+│   ├── App.css
+│   ├── index.css
+│   ├── App.jsx
+│   └── main.jsx
+├── .gitignore
+├── components.json
+├── eslint.config.js
+├── index.html
+├── jsconfig.json
+├── package.json
+├── package-lock.json        (or pnpm-lock.yaml / yarn.lock)
+├── postcss.config.js
+├── README.md
+├── tailwind.config.js
+└── vite.config.js
+
+
+
+
+
+
+
